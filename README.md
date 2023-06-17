@@ -1,6 +1,6 @@
 # tlco-page
 
-Here's a copy I've made of the company's website I'm working for.
+Here's a copy I've made of the company's website I worked for.
 
 Once downloaded or cloned the project type "npm install" in your terminal to install the node_modules.
 
